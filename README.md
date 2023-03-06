@@ -28,4 +28,6 @@ https://user-images.githubusercontent.com/73349039/223019232-b2e27793-9b10-4e84-
 # Contributing
 If you'd like to contribute to the development of this app, you can fork the repository and submit a pull request with your changes. Before making any changes, please make sure to read the contributing guidelines in the repository.
 
+# To find the source code of the app kindly check in master branch
+
 
