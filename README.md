@@ -3,7 +3,7 @@
 This is a mobile application that uses computer vision algorithms to detect potholes in real-time using the device camera. The app can be used by anyone who wants to avoid them while driving or cycling.
 
 # Installation
-To use this app, you can either download it from the app store or clone this GitHub repository and build the app yourself. To clone the repository, run the following command in your terminal:
+To use this app, you can either download the repository and run the app-debug.apk file in the master branch or clone this GitHub repository and build the app yourself. To clone the repository, run the following command in your terminal:
 
 bash
 # git clone https://git@github.com:kcchawla85/StreetSafe.git
